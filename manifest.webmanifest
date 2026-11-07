@@ -4,16 +4,14 @@
   "short_name": "NEBULA",
   "description": "Expande tu imperio cósmico y trasciende universos.",
   "lang": "es",
+  "dir": "ltr",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "any",
   "background_color": "#090b16",
   "theme_color": "#090b16",
-  "categories": [
-    "games",
-    "entertainment"
-  ],
+  "categories": ["games", "entertainment"],
   "icons": [
     {
       "src": "icons/icon-192.png",
